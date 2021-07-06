@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akankshaoops
 - 👀 I’m interested in all things tech
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 You can reach out to me at hakunamatatahighhopes101@gmail.com
 
