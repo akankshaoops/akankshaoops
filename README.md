@@ -2,7 +2,7 @@
 - 👀 I’m interested in all things tech
 - 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on open-source projects
-- 📫 You can reach out to me at hakunamatatahighhopes101@gmail.com
+- 📫 You can reach out to me at singhakanksha321@gmail.com
 
 <!---
 akankshaoops/akankshaoops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
